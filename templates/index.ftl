@@ -22,18 +22,26 @@
 	                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 	                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
 	                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	                            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+	                            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
 	                        </ol>
 
 	                        <!-- Wrapper for slides -->
 	                        <div class="carousel-inner">
 	                            <div class="item active">
-	                                <img class="img-responsive img-full" src="img/slide-1.jpg" alt="">
+	                                <img class="img-responsive img-full" src="img/slider/slide-1.jpg" alt="">
 	                            </div>
 	                            <div class="item">
-	                                <img class="img-responsive img-full" src="img/slide-2.jpg" alt="">
+	                                <img class="img-responsive img-full" src="img/slider/slide-2.jpg" alt="">
 	                            </div>
 	                            <div class="item">
-	                                <img class="img-responsive img-full" src="img/slide-3.jpg" alt="">
+	                                <img class="img-responsive img-full" src="img/slider/slide-3.jpg" alt="">
+	                            </div>
+	                            <div class="item">
+	                                <img class="img-responsive img-full" src="img/slider/slide-4.jpg" alt="">
+	                            </div>
+	                            <div class="item">
+	                                <img class="img-responsive img-full" src="img/slider/slide-5.jpg" alt="">
 	                            </div>
 	                        </div>
 
