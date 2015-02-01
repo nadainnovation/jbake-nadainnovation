@@ -23,6 +23,10 @@
 
 	    <#include "jsImport.ftl">
 
+	    <#if (content.jsController)??>
+            <script type="text/javascript" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/controllers/${content.jsController}"></script>
+        </#if>
+
 	    <#include "googleAnalytics.ftl">
 
 	</body>
