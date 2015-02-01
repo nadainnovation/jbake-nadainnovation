@@ -8,8 +8,8 @@ $(document).ready(function() {
 		e6 = 'gma',
 		e7 = 'il.com';
 
-	var p1 = '+ 1-',
-		p2 = '519-',
+	var p1 = '+ 1 ',
+		p2 = '(519)',
 		p3 = '772-',
 		p4 = '68',
 		p5 = '47';
